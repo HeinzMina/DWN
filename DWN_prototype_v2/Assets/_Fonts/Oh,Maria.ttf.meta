@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aebbbfad202e4dc4dad02f0a3f17e2f8
+timeCreated: 1507521885
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: OhMaria
+  fontNames:
+  - OhMaria
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
